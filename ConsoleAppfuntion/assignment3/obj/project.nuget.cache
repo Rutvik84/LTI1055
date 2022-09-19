@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZ9oLL/4tBVVY04JTI2oR4BQgnQ5e1MpiUfxyxdVnSPh9NvtHIRfNOopMHWvLEvD+tycBtH5Ksvq/l0gbMmXGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rutvi\\source\\repos\\LTI\\ConsoleAppfuntion\\assignment3\\assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rutvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

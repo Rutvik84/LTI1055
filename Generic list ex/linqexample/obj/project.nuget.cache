@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGRqCxAinPwUtTkPYzW1Ck7VsO0wRBXtv5VZobhUzy2osIS2qOe6vsduGvHuwedZ8TiPUOxdhKMMz7ONP9lxAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rutvi\\source\\repos\\LTI\\Generic list ex\\linqexample\\linqexample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rutvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

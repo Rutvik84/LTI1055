@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtaRCS4rVSty7jVQgIttOI94l9NF/vH7LMERoZZTGC53yYVTeuEvK4wNT7i5XA9DWcjeJgbMkucXGJAybeiJlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rutvi\\source\\repos\\LTI\\Consolehwa\\Consolehwproduct\\Consolehwproduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rutvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

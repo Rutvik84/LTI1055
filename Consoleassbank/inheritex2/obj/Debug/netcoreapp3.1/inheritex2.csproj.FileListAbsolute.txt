@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.exe
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.deps.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\bin\Debug\netcoreapp3.1\inheritex2.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\inheritex2\obj\Debug\netcoreapp3.1\inheritex2.genruntimeconfig.cache

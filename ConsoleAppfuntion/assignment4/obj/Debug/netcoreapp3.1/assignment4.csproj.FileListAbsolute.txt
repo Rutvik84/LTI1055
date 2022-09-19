@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.exe
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.deps.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\bin\Debug\netcoreapp3.1\assignment4.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\assignment4\obj\Debug\netcoreapp3.1\assignment4.genruntimeconfig.cache

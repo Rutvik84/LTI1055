@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.exe
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.deps.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\bin\Debug\netcoreapp3.1\ConsoleStruct.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\ConsoleStruct\obj\Debug\netcoreapp3.1\ConsoleStruct.genruntimeconfig.cache

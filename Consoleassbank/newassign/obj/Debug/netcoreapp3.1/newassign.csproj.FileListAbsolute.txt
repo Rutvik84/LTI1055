@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.exe
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.deps.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\bin\Debug\netcoreapp3.1\newassign.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\newassign\obj\Debug\netcoreapp3.1\newassign.genruntimeconfig.cache

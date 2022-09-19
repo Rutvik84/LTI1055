@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U96foyDJJuDjTsocOl2HxTe5Cr9IagMVPo7MhY7Ov6YYL1MIWwrFReFKX/JHacgbzV25sJ1hL5/6hBWVBk+1cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rutvi\\source\\repos\\LTI\\Consoleassbank\\inheritex2\\inheritex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rutvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.exe
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.deps.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\bin\Debug\netcoreapp3.1\Consoleclassex2.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.dll
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.pdb
+C:\Users\rutvi\source\repos\LTI\ConsoleAppfuntion\Consoleclassex2\obj\Debug\netcoreapp3.1\Consoleclassex2.genruntimeconfig.cache

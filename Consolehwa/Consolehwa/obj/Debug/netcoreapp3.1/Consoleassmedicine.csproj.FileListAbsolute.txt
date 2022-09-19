@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.exe
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.deps.json
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.dll
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\bin\Debug\netcoreapp3.1\Consoleassmedicine.pdb
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.dll
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.pdb
+C:\Users\rutvi\source\repos\LTI\Consolehwa\Consolehwa\obj\Debug\netcoreapp3.1\Consoleassmedicine.genruntimeconfig.cache

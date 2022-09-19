@@ -1,0 +1,14 @@
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.exe
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.deps.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.runtimeconfig.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.runtimeconfig.dev.json
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\bin\Debug\netcoreapp3.1\Consoleassbank.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.csproj.AssemblyReference.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.AssemblyInfoInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.AssemblyInfo.cs
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.dll
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.pdb
+C:\Users\rutvi\source\repos\LTI\Consoleassbank\Consoleassbank\obj\Debug\netcoreapp3.1\Consoleassbank.genruntimeconfig.cache
